@@ -9,3 +9,6 @@ In addition, the interpretor will be changed to LATEX.
 After adjustment of font size to 8pt, the image blend well with the text, as can be seen in a published page below:
 
 ![page_preview](https://github.com/user-attachments/assets/d91de5dc-4db6-4bee-8615-dabb4b2326f1)
+
+
+There are a few things which I will find some time to improve. One of them is making the legend font consistent.
